@@ -1,0 +1,4 @@
+Favorite film: "The Matrix"
+Favorite serial: "Lord of the rings"
+Favorite food: "Sushi"
+Favorite season: "Summer"
