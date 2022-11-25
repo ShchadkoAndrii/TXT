@@ -1,1 +1,21 @@
+Bug-reports	
+ID	BR000001
+Summary	Не змінюється мова в tooltip в пощуковій строці після зміни мови на сайті
+Pre-conditions	Відкрити сайт https://ldubgd.edu.ua/
 
+Steps to Reproduce:	
+  1.Натиснути на прапор Великої Британії в правому кутку(зміна мови)
+	2.Навести курсор на пошукову строку
+	
+	
+	
+Expected result	Сторінка перевелась на англ мову
+Actual result	Сторінка не перевелась на англ мову
+Post-condition	Закрити сторінку
+Environment	"Chrome 104.0.5112.81 (Офіційна збірка), (64 біт)
+"
+Severity	Trivial
+Priority	Low
+Submit Date	15.08.2021
+Reporter Andrii Shchadko
+Attachment	
