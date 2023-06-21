@@ -1,5 +1,5 @@
 Bug-reports	
-ID	BR000001
+ID BR000001
 Summary	Не змінюється мова в tooltip в пощуковій строці після зміни мови на сайті
 Pre-conditions	Відкрити сайт https://ldubgd.edu.ua/
 
