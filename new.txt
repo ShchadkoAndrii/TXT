@@ -1,4 +1,4 @@
 Name - Andrii,
-Age - 35,
+Age - 30,
 Pets - 4,
 Salary - $10000.
