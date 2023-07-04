@@ -1,3 +1,4 @@
-Name: Andrii,
-Age:30,
-Pets:4,
+Name - Andrii,
+Age - 35,
+Pets - 4,
+Salary - $10000.
