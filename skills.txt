@@ -1,26 +1,21 @@
-1. Базова теорія (Що таке тестування, багрепорти, документація, види, методи, напрямки тестування і т.д.) SDLC, STLC
-2. Що таке кліент-серверна архітектура
-3. HTTP Методи запитів на сервер
-4. Коди відповідей HTTP серверу
-5. Структури HTTP запитів та відповідей
-6. Що таке JSON, XML. Їх структура
-7. Тестування API через Postman (JS, автотести API)
-8. Зняття та читання логів з зовнішнього сервера
-9. Сніфінг http web трафіка через Charles и Fiddler
-10. Dev Tools веб браузерів (Google Chrome, FireFox)
-11. VPN. (Як працює, навіщо потрібен, як використовувати, варіанти інструментів)
-12. Мобільне тестування
-13. Особливість iOS, Android, гайдлайни
-14. Збірка iOS додатків на XCode. (В кого немає Mac комп'ютера, просто подивляться)
-15. Збірка Android додатків на Android Studio
-16. ADB (керування андроїд девайсами)
-17. Настройка проксі и vpn на iOS і Android
-18. Перехоплення (сніффінг) мобільного трафіка через Charles и Fiddler на iOS и Android
-19. Командна строка (terminal) Linux (копіювання, створення, перегляд, переміщення файлів на серверах без графічного інтерфейсу)
-20. Основи bash скріптинг, автоматизація рутинних задач на сервері
-21. Доступ до віддалених серверів
-22. Основи SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
-23. База даних Postgres (встановлення, налаштування і використання)
-24. Нереляційна база даних Redis (встановлення, налаштування і використання)
-25. Навантажувальне тестування в Jmeter
-26. Методологія разробки Scrum!!!
+Skills:
+1) Basic theory SDLC, STLC;
+2) Client-server architecture;
+3) HTTP;
+4) What is JSON, XML;
+5) API testing via Postman (JS, API autotests);
+6) Removing and reading logs from an external server;
+7) Sniffing http web traffic via Charles and Fiddler";
+8) Dev Tools of web browsers;
+9) Mobile testing;
+10) Feature iOS, Android, guidelines;
+11) ADB (android device management);
+12) Setting up proxy and vpn on iOS and Android;
+13) Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android;
+14) Command line (terminal) Linux;
+15) Basics of bash scripting, automation of routine tasks on the server;
+16) Access to remote servers;
+17) SQL basics;
+18) Load testing in Jmeter;
+19) Scrum development methodology;
+20) Python. Basic learning.
